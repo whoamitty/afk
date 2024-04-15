@@ -1,0 +1,13 @@
+#audioPlayer {
+    display: none; /* Cela cache l'élément audio de la vue sans interférer avec sa fonctionnalité */
+  }
+
+
+body{
+    color: rgb(77, 128, 0);
+    /* color: green;  */
+    /* color: rgb(162, 180, 0); */
+    font-size: 2em;
+    font-style: normal;
+    font-family: "Lucida Console", Courier, monospace;
+}    

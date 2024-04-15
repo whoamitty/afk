@@ -1,0 +1,22 @@
+h1{
+	
+	font-size:3em
+}
+
+body{
+	font-family: cursive;
+	background-color: rgb(239, 208, 28);
+	/* background-color: rgb(232, 201, 1); */
+
+}
+
+video :not(.nop,div) {
+	/* border-color: black; */
+	/* border: solid; */
+	/* margin:0 auto; */
+	/* border: 1em solid; */          	
+
+	outline:8px solid black;
+	border-radius: 2%;
+}
+
